@@ -114,4 +114,3 @@ This is meant for personal use with reasonable message volumes.
 
 Made with ❤️ by [dulagudeta](https://github.com/dulagudeta)  
 Feel free to tweak this for your needs!
-```
